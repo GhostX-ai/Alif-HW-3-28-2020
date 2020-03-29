@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.exe
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.deps.json
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.dll
+C:\Users\GhostX\Desktop\c#Projects\FOR\bin\Debug\netcoreapp3.1\FOR.pdb
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.dll
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.pdb
+C:\Users\GhostX\Desktop\c#Projects\FOR\obj\Debug\netcoreapp3.1\FOR.genruntimeconfig.cache
