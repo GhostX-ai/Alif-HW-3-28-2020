@@ -86,12 +86,12 @@ namespace FOR
                 System.Console.WriteLine();
             }
             //#3
-            double v = 1000, p = 1, r = 0;
-            for (double i = v; i < 1100;)
+            double v = 1000, p = 5, r = 0;
+            for (double i = v; v < 1100;)
             {
                 r++;
-                i += v * p / 100;
-                System.Console.WriteLine(i);
+                v += v * p / 100;
+                System.Console.WriteLine(v);
             }
             System.Console.WriteLine(r);
             Console.ReadKey();
